@@ -1,0 +1,116 @@
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\Bin\Debug\ApplicationIcon.png
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\Bin\Debug\Background.png
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\Bin\Debug\StockPricePhoneApp.dll.config
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\Bin\Debug\StockPricePhoneApp.dll
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\Bin\Debug\StockPricePhoneApp.pdb
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\Bin\Debug\resources.pri
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\Bin\Debug\AppxManifest.xml
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\Bin\Debug\SmartTracking.build.appxrecipe
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\Bin\Debug\AppManifest.xaml
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\Bin\Debug\StockPrice_Debug_AnyCPU.xap
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\Bin\Debug\System.Net.Http.dll
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\Bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\Bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\Bin\Debug\System.Net.Http.xml
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\Bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\Bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\SmartTracking.csprojResolveAssemblyReference.cache
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\App.g.cs
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\MainPage.g.cs
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\StockPricePhoneApp.g.resources
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\StockPricePhoneApp.dll
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\StockPricePhoneApp.pdb
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\System.Net.Http\en-US\System.Net.Http.SR.resw
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.CommonWebApiResources.resw
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.Resources.resw
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\SmartTracking.csproj.GenerateResource.Cache
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\System.Net.Http.pri
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\System.Net.Http\qualifiers.txt
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\System.Net.Http.Formatting.pri
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\System.Net.Http.Formatting\qualifiers.txt
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\priconfig.xml
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\priconfig.xml.intermediate
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\layout.resfiles
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\layout.resfiles.intermediate
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\resources.resfiles
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\resources.resfiles.intermediate
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\pri.resfiles
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\pri.resfiles.intermediate
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\qualifiers.txt
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\qualifiers.txt.intermediate
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\ProjectArchitectures.txt
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\MDILProjectFiles.xml
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\XapCacheFile.xml
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\Bin\Debug\ApplicationIcon.png
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\Bin\Debug\Background.png
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\Bin\Debug\StockPricePhoneApp.dll.config
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\Bin\Debug\StockPricePhoneApp.dll
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\Bin\Debug\StockPricePhoneApp.pdb
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\Bin\Debug\resources.pri
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\Bin\Debug\AppxManifest.xml
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\Bin\Debug\SmartTracking.build.appxrecipe
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\Bin\Debug\Properties\WMAppManifest.xml
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\Bin\Debug\AppManifest.xaml
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\Bin\Debug\StockPrice_Debug_AnyCPU.xap
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\Bin\Debug\Newtonsoft.Json.dll
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\Bin\Debug\System.Net.Http.dll
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\Bin\Debug\System.Net.Http.Extensions.dll
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\Bin\Debug\System.Net.Http.Formatting.dll
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\Bin\Debug\System.Net.Http.Primitives.dll
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\Bin\Debug\Newtonsoft.Json.xml
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\Bin\Debug\System.Net.Http.xml
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\Bin\Debug\System.Net.Http.Extensions.xml
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\Bin\Debug\System.Net.Http.Formatting.xml
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\Bin\Debug\System.Net.Http.Primitives.xml
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\obj\Debug\App.g.cs
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\obj\Debug\MainPage.g.cs
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\obj\Debug\StockPricePhoneApp.g.resources
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\obj\Debug\StockPricePhoneApp.dll
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\obj\Debug\StockPricePhoneApp.pdb
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\obj\Debug\System.Net.Http\en-US\System.Net.Http.SR.resw
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\obj\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.CommonWebApiResources.resw
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\obj\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.Resources.resw
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\obj\Debug\SmartTracking.csproj.GenerateResource.Cache
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\obj\Debug\System.Net.Http.pri
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\obj\Debug\System.Net.Http\qualifiers.txt
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\obj\Debug\System.Net.Http.Formatting.pri
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\obj\Debug\System.Net.Http.Formatting\qualifiers.txt
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\obj\Debug\priconfig.xml
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\obj\Debug\priconfig.xml.intermediate
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\obj\Debug\layout.resfiles
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\obj\Debug\layout.resfiles.intermediate
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\obj\Debug\resources.resfiles
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\obj\Debug\resources.resfiles.intermediate
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\obj\Debug\pri.resfiles
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\obj\Debug\pri.resfiles.intermediate
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\obj\Debug\qualifiers.txt
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\obj\Debug\qualifiers.txt.intermediate
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\obj\Debug\ProjectArchitectures.txt
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\obj\Debug\MDILProjectFiles.xml
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\obj\Debug\XapCacheFile.xml
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\obj\Debug\TrackingHistory.g.cs
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\obj\Debug\DeliveriesDetail.g.cs
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\obj\Debug\SmartTracking.csprojResolveAssemblyReference.cache
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\obj\Debug\System.Net.Http\layout.resfiles
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\obj\Debug\System.Net.Http\layout.resfiles.intermediate
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\obj\Debug\System.Net.Http\Resources.resfiles
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\obj\Debug\System.Net.Http\Resources.resfiles.intermediate
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\obj\Debug\System.Net.Http\pri.resfiles
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\obj\Debug\System.Net.Http\pri.resfiles.intermediate
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\obj\Debug\System.Net.Http\priconfig.xml
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\obj\Debug\System.Net.Http\priconfig.xml.intermediate
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\obj\Debug\System.Net.Http.Formatting\layout.resfiles
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\obj\Debug\System.Net.Http.Formatting\layout.resfiles.intermediate
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\obj\Debug\System.Net.Http.Formatting\Resources.resfiles
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\obj\Debug\System.Net.Http.Formatting\Resources.resfiles.intermediate
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\obj\Debug\System.Net.Http.Formatting\pri.resfiles
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\obj\Debug\System.Net.Http.Formatting\pri.resfiles.intermediate
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\obj\Debug\System.Net.Http.Formatting\priconfig.xml
+E:\MINI_PROJECT\SmartTrackingApp\StockPricePhoneApp\obj\Debug\System.Net.Http.Formatting\priconfig.xml.intermediate

@@ -1,0 +1,202 @@
+C:\Gary\EAD\Windows Phone\WP8\StockPrice\StockPricePhoneApp\Bin\Debug\ApplicationIcon.png
+C:\Gary\EAD\Windows Phone\WP8\StockPrice\StockPricePhoneApp\Bin\Debug\Background.png
+C:\Gary\EAD\Windows Phone\WP8\StockPrice\StockPricePhoneApp\Bin\Debug\StockPricePhoneApp.dll
+C:\Gary\EAD\Windows Phone\WP8\StockPrice\StockPricePhoneApp\Bin\Debug\StockPricePhoneApp.pdb
+C:\Gary\EAD\Windows Phone\WP8\StockPrice\StockPricePhoneApp\Bin\Debug\AppManifest.xaml
+C:\Gary\EAD\Windows Phone\WP8\StockPrice\StockPricePhoneApp\Bin\Debug\Properties\WMAppManifest.xml
+C:\Gary\EAD\Windows Phone\WP8\StockPrice\StockPricePhoneApp\Bin\Debug\StockPricePhoneApp_Debug_AnyCPU.xap
+C:\Gary\EAD\Windows Phone\WP8\StockPrice\StockPricePhoneApp\Bin\Debug\Newtonsoft.Json.dll
+C:\Gary\EAD\Windows Phone\WP8\StockPrice\StockPricePhoneApp\Bin\Debug\System.Net.Http.dll
+C:\Gary\EAD\Windows Phone\WP8\StockPrice\StockPricePhoneApp\Bin\Debug\System.Net.Http.Extensions.dll
+C:\Gary\EAD\Windows Phone\WP8\StockPrice\StockPricePhoneApp\Bin\Debug\System.Net.Http.Formatting.dll
+C:\Gary\EAD\Windows Phone\WP8\StockPrice\StockPricePhoneApp\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Gary\EAD\Windows Phone\WP8\StockPrice\StockPricePhoneApp\Bin\Debug\Newtonsoft.Json.xml
+C:\Gary\EAD\Windows Phone\WP8\StockPrice\StockPricePhoneApp\Bin\Debug\System.Net.Http.xml
+C:\Gary\EAD\Windows Phone\WP8\StockPrice\StockPricePhoneApp\Bin\Debug\System.Net.Http.Extensions.xml
+C:\Gary\EAD\Windows Phone\WP8\StockPrice\StockPricePhoneApp\Bin\Debug\System.Net.Http.Formatting.xml
+C:\Gary\EAD\Windows Phone\WP8\StockPrice\StockPricePhoneApp\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Gary\EAD\Windows Phone\WP8\StockPrice\StockPricePhoneApp\obj\Debug\StockPrice.csprojResolveAssemblyReference.cache
+C:\Gary\EAD\Windows Phone\WP8\StockPrice\StockPricePhoneApp\obj\Debug\App.g.cs
+C:\Gary\EAD\Windows Phone\WP8\StockPrice\StockPricePhoneApp\obj\Debug\MainPage.g.cs
+C:\Gary\EAD\Windows Phone\WP8\StockPrice\StockPricePhoneApp\obj\Debug\StockPricePhoneApp.g.resources
+C:\Gary\EAD\Windows Phone\WP8\StockPrice\StockPricePhoneApp\obj\Debug\StockPricePhoneApp.dll
+C:\Gary\EAD\Windows Phone\WP8\StockPrice\StockPricePhoneApp\obj\Debug\StockPricePhoneApp.pdb
+C:\Gary\EAD\Windows Phone\WP8\StockPrice\StockPricePhoneApp\obj\Debug\XapCacheFile.xml
+C:\Gary\EAD\Windows Phone\WP8\StockPricev2\StockPricePhoneApp\Bin\Debug\ApplicationIcon.png
+C:\Gary\EAD\Windows Phone\WP8\StockPricev2\StockPricePhoneApp\Bin\Debug\Background.png
+C:\Gary\EAD\Windows Phone\WP8\StockPricev2\StockPricePhoneApp\Bin\Debug\StockPricePhoneApp.dll
+C:\Gary\EAD\Windows Phone\WP8\StockPricev2\StockPricePhoneApp\Bin\Debug\StockPricePhoneApp.pdb
+C:\Gary\EAD\Windows Phone\WP8\StockPricev2\StockPricePhoneApp\Bin\Debug\AppManifest.xaml
+C:\Gary\EAD\Windows Phone\WP8\StockPricev2\StockPricePhoneApp\Bin\Debug\Properties\WMAppManifest.xml
+C:\Gary\EAD\Windows Phone\WP8\StockPricev2\StockPricePhoneApp\Bin\Debug\StockPricePhoneApp_Debug_AnyCPU.xap
+C:\Gary\EAD\Windows Phone\WP8\StockPricev2\StockPricePhoneApp\Bin\Debug\Newtonsoft.Json.dll
+C:\Gary\EAD\Windows Phone\WP8\StockPricev2\StockPricePhoneApp\Bin\Debug\System.Net.Http.dll
+C:\Gary\EAD\Windows Phone\WP8\StockPricev2\StockPricePhoneApp\Bin\Debug\System.Net.Http.Extensions.dll
+C:\Gary\EAD\Windows Phone\WP8\StockPricev2\StockPricePhoneApp\Bin\Debug\System.Net.Http.Formatting.dll
+C:\Gary\EAD\Windows Phone\WP8\StockPricev2\StockPricePhoneApp\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Gary\EAD\Windows Phone\WP8\StockPricev2\StockPricePhoneApp\Bin\Debug\Newtonsoft.Json.xml
+C:\Gary\EAD\Windows Phone\WP8\StockPricev2\StockPricePhoneApp\Bin\Debug\System.Net.Http.xml
+C:\Gary\EAD\Windows Phone\WP8\StockPricev2\StockPricePhoneApp\Bin\Debug\System.Net.Http.Extensions.xml
+C:\Gary\EAD\Windows Phone\WP8\StockPricev2\StockPricePhoneApp\Bin\Debug\System.Net.Http.Formatting.xml
+C:\Gary\EAD\Windows Phone\WP8\StockPricev2\StockPricePhoneApp\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Gary\EAD\Windows Phone\WP8\StockPricev2\StockPricePhoneApp\obj\Debug\StockPrice.csprojResolveAssemblyReference.cache
+C:\Gary\EAD\Windows Phone\WP8\StockPricev2\StockPricePhoneApp\obj\Debug\App.g.cs
+C:\Gary\EAD\Windows Phone\WP8\StockPricev2\StockPricePhoneApp\obj\Debug\MainPage.g.cs
+C:\Gary\EAD\Windows Phone\WP8\StockPricev2\StockPricePhoneApp\obj\Debug\StockPricePhoneApp.g.resources
+C:\Gary\EAD\Windows Phone\WP8\StockPricev2\StockPricePhoneApp\obj\Debug\StockPricePhoneApp.dll
+C:\Gary\EAD\Windows Phone\WP8\StockPricev2\StockPricePhoneApp\obj\Debug\StockPricePhoneApp.pdb
+C:\Gary\EAD\Windows Phone\WP8\StockPricev2\StockPricePhoneApp\obj\Debug\XapCacheFile.xml
+C:\Users\gary.LAB040-17\OneDrive\EAD\Windows Phone\WP8\StockPrice\StockPricePhoneApp\Bin\Debug\ApplicationIcon.png
+C:\Users\gary.LAB040-17\OneDrive\EAD\Windows Phone\WP8\StockPrice\StockPricePhoneApp\Bin\Debug\Background.png
+C:\Users\gary.LAB040-17\OneDrive\EAD\Windows Phone\WP8\StockPrice\StockPricePhoneApp\Bin\Debug\StockPricePhoneApp.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD\Windows Phone\WP8\StockPrice\StockPricePhoneApp\Bin\Debug\StockPricePhoneApp.pdb
+C:\Users\gary.LAB040-17\OneDrive\EAD\Windows Phone\WP8\StockPrice\StockPricePhoneApp\Bin\Debug\AppManifest.xaml
+C:\Users\gary.LAB040-17\OneDrive\EAD\Windows Phone\WP8\StockPrice\StockPricePhoneApp\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\gary.LAB040-17\OneDrive\EAD\Windows Phone\WP8\StockPrice\StockPricePhoneApp\Bin\Debug\StockPricePhoneApp_Debug_AnyCPU.xap
+C:\Users\gary.LAB040-17\OneDrive\EAD\Windows Phone\WP8\StockPrice\StockPricePhoneApp\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD\Windows Phone\WP8\StockPrice\StockPricePhoneApp\Bin\Debug\System.Net.Http.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD\Windows Phone\WP8\StockPrice\StockPricePhoneApp\Bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD\Windows Phone\WP8\StockPrice\StockPricePhoneApp\Bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD\Windows Phone\WP8\StockPrice\StockPricePhoneApp\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD\Windows Phone\WP8\StockPrice\StockPricePhoneApp\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\gary.LAB040-17\OneDrive\EAD\Windows Phone\WP8\StockPrice\StockPricePhoneApp\Bin\Debug\System.Net.Http.xml
+C:\Users\gary.LAB040-17\OneDrive\EAD\Windows Phone\WP8\StockPrice\StockPricePhoneApp\Bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\gary.LAB040-17\OneDrive\EAD\Windows Phone\WP8\StockPrice\StockPricePhoneApp\Bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\gary.LAB040-17\OneDrive\EAD\Windows Phone\WP8\StockPrice\StockPricePhoneApp\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\gary.LAB040-17\OneDrive\EAD\Windows Phone\WP8\StockPrice\StockPricePhoneApp\obj\Debug\StockPrice.csprojResolveAssemblyReference.cache
+C:\Users\gary.LAB040-17\OneDrive\EAD\Windows Phone\WP8\StockPrice\StockPricePhoneApp\obj\Debug\App.g.cs
+C:\Users\gary.LAB040-17\OneDrive\EAD\Windows Phone\WP8\StockPrice\StockPricePhoneApp\obj\Debug\MainPage.g.cs
+C:\Users\gary.LAB040-17\OneDrive\EAD\Windows Phone\WP8\StockPrice\StockPricePhoneApp\obj\Debug\StockPricePhoneApp.g.resources
+C:\Users\gary.LAB040-17\OneDrive\EAD\Windows Phone\WP8\StockPrice\StockPricePhoneApp\obj\Debug\StockPricePhoneApp.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD\Windows Phone\WP8\StockPrice\StockPricePhoneApp\obj\Debug\StockPricePhoneApp.pdb
+C:\Users\gary.LAB040-17\OneDrive\EAD\Windows Phone\WP8\StockPrice\StockPricePhoneApp\obj\Debug\XapCacheFile.xml
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\Bin\Debug\ApplicationIcon.png
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\Bin\Debug\Background.png
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\Bin\Debug\StockPricePhoneApp.dll
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\Bin\Debug\StockPricePhoneApp.pdb
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\Bin\Debug\resources.pri
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\Bin\Debug\AppxManifest.xml
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\Bin\Debug\StockPrice.build.appxrecipe
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\Bin\Debug\AppManifest.xaml
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\Bin\Debug\StockPrice_Debug_AnyCPU.xap
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\Bin\Debug\System.Net.Http.dll
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\Bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\Bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\Bin\Debug\System.Net.Http.xml
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\Bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\Bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\obj\Debug\StockPrice.csprojResolveAssemblyReference.cache
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\obj\Debug\App.g.cs
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\obj\Debug\MainPage.g.cs
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\obj\Debug\StockPricePhoneApp.g.resources
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\obj\Debug\StockPricePhoneApp.dll
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\obj\Debug\StockPricePhoneApp.pdb
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\obj\Debug\System.Net.Http\en-US\System.Net.Http.SR.resw
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\obj\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.CommonWebApiResources.resw
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\obj\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.Resources.resw
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\obj\Debug\StockPrice.csproj.GenerateResource.Cache
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\obj\Debug\System.Net.Http.pri
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\obj\Debug\System.Net.Http\qualifiers.txt
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\obj\Debug\System.Net.Http.Formatting.pri
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\obj\Debug\System.Net.Http.Formatting\qualifiers.txt
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\obj\Debug\priconfig.xml
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\obj\Debug\priconfig.xml.intermediate
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\obj\Debug\layout.resfiles
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\obj\Debug\layout.resfiles.intermediate
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\obj\Debug\resources.resfiles
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\obj\Debug\resources.resfiles.intermediate
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\obj\Debug\pri.resfiles
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\obj\Debug\pri.resfiles.intermediate
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\obj\Debug\qualifiers.txt
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\obj\Debug\qualifiers.txt.intermediate
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\obj\Debug\ProjectArchitectures.txt
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\obj\Debug\MDILProjectFiles.xml
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\obj\Debug\XapCacheFile.xml
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\obj\Debug\System.Net.Http\layout.resfiles
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\obj\Debug\System.Net.Http\layout.resfiles.intermediate
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\obj\Debug\System.Net.Http\Resources.resfiles
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\obj\Debug\System.Net.Http\Resources.resfiles.intermediate
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\obj\Debug\System.Net.Http\pri.resfiles
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\obj\Debug\System.Net.Http\pri.resfiles.intermediate
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\obj\Debug\System.Net.Http\priconfig.xml
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\obj\Debug\System.Net.Http\priconfig.xml.intermediate
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\obj\Debug\System.Net.Http.Formatting\layout.resfiles
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\obj\Debug\System.Net.Http.Formatting\layout.resfiles.intermediate
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\obj\Debug\System.Net.Http.Formatting\Resources.resfiles
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\obj\Debug\System.Net.Http.Formatting\Resources.resfiles.intermediate
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\obj\Debug\System.Net.Http.Formatting\pri.resfiles
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\obj\Debug\System.Net.Http.Formatting\pri.resfiles.intermediate
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\obj\Debug\System.Net.Http.Formatting\priconfig.xml
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\obj\Debug\System.Net.Http.Formatting\priconfig.xml.intermediate
+C:\Users\gary.LAB040-17\OneDrive\WP8\StockPrice\StockPricePhoneApp\Bin\Debug\StockPricePhoneApp.dll.config
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\Bin\Debug\ApplicationIcon.png
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\Bin\Debug\Background.png
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\Bin\Debug\StockPricePhoneApp.dll.config
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\Bin\Debug\StockPricePhoneApp.dll
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\Bin\Debug\StockPricePhoneApp.pdb
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\Bin\Debug\resources.pri
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\Bin\Debug\AppxManifest.xml
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\Bin\Debug\StockPrice.build.appxrecipe
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\Bin\Debug\AppManifest.xaml
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\Bin\Debug\StockPrice_Debug_AnyCPU.xap
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\Bin\Debug\System.Net.Http.dll
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\Bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\Bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\Bin\Debug\System.Net.Http.xml
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\Bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\Bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\StockPrice.csprojResolveAssemblyReference.cache
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\App.g.cs
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\MainPage.g.cs
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\StockPricePhoneApp.g.resources
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\StockPricePhoneApp.dll
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\StockPricePhoneApp.pdb
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\System.Net.Http\en-US\System.Net.Http.SR.resw
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.CommonWebApiResources.resw
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.Resources.resw
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\StockPrice.csproj.GenerateResource.Cache
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\System.Net.Http.pri
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\System.Net.Http\qualifiers.txt
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\System.Net.Http.Formatting.pri
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\System.Net.Http.Formatting\qualifiers.txt
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\priconfig.xml
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\priconfig.xml.intermediate
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\layout.resfiles
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\layout.resfiles.intermediate
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\resources.resfiles
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\resources.resfiles.intermediate
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\pri.resfiles
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\pri.resfiles.intermediate
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\qualifiers.txt
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\qualifiers.txt.intermediate
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\ProjectArchitectures.txt
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\MDILProjectFiles.xml
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\XapCacheFile.xml
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\System.Net.Http\layout.resfiles
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\System.Net.Http\layout.resfiles.intermediate
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\System.Net.Http\Resources.resfiles
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\System.Net.Http\Resources.resfiles.intermediate
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\System.Net.Http\pri.resfiles
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\System.Net.Http\pri.resfiles.intermediate
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\System.Net.Http\priconfig.xml
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\System.Net.Http\priconfig.xml.intermediate
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\System.Net.Http.Formatting\layout.resfiles
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\System.Net.Http.Formatting\layout.resfiles.intermediate
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\System.Net.Http.Formatting\Resources.resfiles
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\System.Net.Http.Formatting\Resources.resfiles.intermediate
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\System.Net.Http.Formatting\pri.resfiles
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\System.Net.Http.Formatting\pri.resfiles.intermediate
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\System.Net.Http.Formatting\priconfig.xml
+C:\Users\appsu\Desktop\Downloads\Windows Phone 8 samples\StockPrice\StockPricePhoneApp\obj\Debug\System.Net.Http.Formatting\priconfig.xml.intermediate
